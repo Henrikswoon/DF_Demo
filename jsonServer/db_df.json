@@ -1,0 +1,334 @@
+{
+  "brief":   {  
+    "Marika" : {
+      "img" : "/noProfile.png" },
+    "Ebba" : { 
+      "img" : "/noProfile.png" },
+    "Gustav" : { 
+      "img" : "/noProfile.png" },
+    "Matilda" : { 
+      "img" : "/noProfile.png" },
+    "Moa" : { 
+      "img" : "/noProfile.png" },
+    "Melker" : { 
+      "img" : "/noProfile.png" },
+    "Akessia" : {
+      "img" : "/noProfile.png" },
+    "Dylan" : { 
+      "img" : "/noProfile.png" },
+    "Erik" : { 
+      "img" : "/noProfile.png" },
+    "Hans" : { 
+      "img" : "/noProfile.png" },
+    "Hector" : { 
+      "img" : "/noProfile.png" },
+    "Markus" : { 
+      "img" : "/noProfile.png" },
+    "Karl" : { 
+      "img" : "/noProfile.png" },
+    "Helga" : { 
+      "img" : "/noProfile.png" },
+    "Chad" : { 
+      "img" : "/noProfile.png" },
+    "Mikael" : { 
+      "img" : "/noProfile.png" },
+    "Lou" : { 
+      "img" : "/noProfile.png" },
+    "Abbe" : { 
+      "img" : "/noProfile.png" },
+    "Ophelia" : { 
+      "img" : "/noProfile.png" },
+    "Juan" : { 
+      "img" : "/noProfile.png" },
+    "Henrik" : { 
+      "img" : "/noProfile.png" },
+    "Carolina" : { 
+      "img" : "/noProfile.png" },
+    "Alfons" : { 
+      "img" : "/noProfile.png" },
+    "tomas" : { 
+      "img" : "/noProfile.png" },
+    "Anton" : { 
+      "img" : "/noProfile.png" },
+    "Sabina" : { 
+      "img" : "/noProfile.png" },
+    "Doris" : { 
+      "img" : "/noProfile.png" },
+    "Dino" : { 
+      "img" : "/noProfile.png" },
+    "Flora" : { 
+      "img" : "/noProfile.png" },
+    "Viola" : { 
+      "img" : "/noProfile.png" },
+    "Simon" : { 
+      "img" : "/noProfile.png" },
+    "Krister" : { 
+      "img" : "/noProfile.png" },
+    "Gunilla" : { 
+      "img" : "/noProfile.png" },
+    "Thure" : { 
+      "img" : "/noProfile.png" },
+    "Peter" : { 
+      "img" : "/noProfile.png" },
+    "Sofia" : { 
+      "img" : "/noProfile.png" },
+    "Zachary" : { 
+      "img" : "/noProfile.png" },
+    "Anneli" : { 
+      "img" : "/noProfile.png" },
+    "Alexander" : { 
+      "img" : "/noProfile.png" },
+    "Kye" : { 
+      "img" : "/noProfile.png" },
+    "Anastasia" : { 
+      "img" : "/noProfile.png" }
+    },
+  "full":    [ 
+    {
+      "id" : "Marika",
+      "img" : "/noProfile.png", 
+      "content" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying ..."
+    },
+    
+    {
+      "id" : "Ebba",
+      "img" : "/noProfile.png", 
+      "content" : "Ebbas Profil"
+    },
+    
+    {
+      "id" : "Gustav",
+      "img" : "/noProfile.png", 
+      "content" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying ..."
+    },
+    
+    { 
+      "id" : "Matilda",
+      "img" : "/noProfile.png", 
+      "content" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying ..."
+    },
+
+    { 
+      "id" : "Moa",
+      "img" : "/noProfile.png", 
+      "content" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying ..."
+    },
+
+    { 
+      "id" : "Melker",
+      "img" : "/noProfile.png", 
+      "content" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying ..."
+    },
+
+    { 
+      "id" : "Akessia",
+      "img" : "/noProfile.png", 
+      "content" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying ..."
+    },
+
+    { 
+      "id" : "Dylan",
+      "img" : "/noProfile.png", 
+      "content" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying ..."
+    },
+
+    { 
+      "id" : "Erik",
+      "img" : "/noProfile.png", 
+      "content" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying ..."
+    },
+
+    { 
+      "id" : "Hans",
+      "img" : "/noProfile.png", 
+      "content" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying ..."
+    },
+
+    { 
+      "id" : "Hector",
+      "img" : "/noProfile.png", 
+      "content" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying ..."
+    },
+
+    { 
+      "id" : "Markus",
+      "img" : "/noProfile.png", 
+      "content" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying ..."
+    },
+
+    { 
+      "id" : "Karl",
+      "img" : "/noProfile.png", 
+      "content" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying ..."
+    },
+
+    { 
+      "id" : "Helga",
+      "img" : "/noProfile.png", 
+      "content" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying ..."
+    },
+
+    { 
+      "id" : "Chad",
+      "img" : "/noProfile.png", 
+      "content" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying ..."
+    },
+
+    { 
+      "id" : "Mikael",
+      "img" : "/noProfile.png", 
+      "content" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying ..."
+    },
+
+    { 
+      "id" : "Lou",
+      "img" : "/noProfile.png", 
+      "content" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying ..."
+    },
+
+    { 
+      "id" : "Abbe",
+      "img" : "/noProfile.png", 
+      "content" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying ..."
+    },
+
+    { 
+      "id" : "Ophelia",
+      "img" : "/noProfile.png", 
+      "content" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying ..."
+    },
+
+    { 
+      "id" : "Juan",
+      "img" : "/noProfile.png", 
+      "content" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying ..."
+    },
+
+    { 
+      "id" : "Henrik",
+      "img" : "/noProfile.png", 
+      "content" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying ..."
+    },
+
+    { 
+      "id" : "Carolina",
+      "img" : "/noProfile.png", 
+      "content" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying ..."
+    },
+
+    { 
+      "id" : "Alfons",
+      "img" : "/noProfile.png", 
+      "content" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying ..."
+    },
+
+    { 
+      "id" : "tomas",
+      "img" : "/noProfile.png", 
+      "content" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying ..."
+    },
+
+    { 
+      "id" : "Anton",
+      "img" : "/noProfile.png", 
+      "content" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying ..."
+    },
+
+    { 
+      "id" : "Sabina",
+      "img" : "/noProfile.png", 
+      "content" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying ..."
+    },
+
+    { 
+      "id" : "Doris",
+      "img" : "/noProfile.png", 
+      "content" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying ..."
+    },
+
+    { 
+      "id" : "Dino",
+      "img" : "/noProfile.png", 
+      "content" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying ..."
+    },
+
+    { 
+      "id" : "Flora",
+      "img" : "/noProfile.png", 
+      "content" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying ..."
+    },
+
+    { 
+      "id" : "Viola",
+      "img" : "/noProfile.png", 
+      "content" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying ..."
+    },
+
+    { 
+      "id" : "Simon",
+      "img" : "/noProfile.png", 
+      "content" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying ..."
+    },
+
+    { 
+      "id" : "Krister",
+      "img" : "/noProfile.png", 
+      "content" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying ..."
+    },
+
+    { 
+      "id" : "Gunilla",
+      "img" : "/noProfile.png", 
+      "content" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying ..."
+    },
+
+    { 
+      "id" : "Thure",
+      "img" : "/noProfile.png", 
+      "content" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying ..."
+    },
+
+    { 
+      "id" : "Peter",
+      "img" : "/noProfile.png", 
+      "content" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying ..."
+    },
+
+    { 
+      "id" : "Sofia",
+      "img" : "/noProfile.png", 
+      "content" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying ..."
+    },
+
+    { 
+      "id" : "Zachary",
+      "img" : "/noProfile.png", 
+      "content" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying ..."
+    },
+
+    { 
+      "id" : "Anneli",
+      "img" : "/noProfile.png", 
+      "content" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying ..."
+    },
+
+    { 
+      "id" : "Alexander",
+      "img" : "/noProfile.png", 
+      "content" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying ..."
+    },
+
+    { 
+      "id" : "Kye",
+      "img" : "/noProfile.png", 
+      "content" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying ..."
+    },
+
+    { 
+      "id" : "Anastasia",
+      "img" : "/noProfile.png", 
+      "content" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying ..."
+    }
+  ]
+}
+

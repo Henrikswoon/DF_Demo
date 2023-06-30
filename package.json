@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "server": "cd ./jsonServer/ && npx json-server --watch db_df.json --port 3001",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
